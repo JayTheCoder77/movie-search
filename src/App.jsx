@@ -2,7 +2,7 @@ import MovieSearch from "./components/MovieSearch"
 function App() {
 
   return (
-    <div className="bg-gradient-to-r from-blue-600 to-red-600 h-screen">
+    <div className="bg-[#121212] h-screen">
       <MovieSearch />
     </div>
   )
